@@ -1,0 +1,1 @@
+Aqui tengo que leer un archivo con bufferedreader y mostrar por pantalla su contenido dividiendo el contenido en 2, por una parte el nombre del producto y por otro lado el precio, dividido por partes de utilizando el ; como separacion
